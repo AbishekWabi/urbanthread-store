@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /urbanthread-store/cart.html
+
+Sitemap: https://abishekwabi.github.io/urbanthread-store/sitemap.xml
